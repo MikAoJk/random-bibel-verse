@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@navikt/ds-css": "^6.1.0",
+    "@navikt/ds-css": "^7.0.0",
     "@navikt/ds-react": "^7.0.0",
     "@navikt/ds-tailwind": "^6.1.0",
     "@types/node": "22.5.0",
