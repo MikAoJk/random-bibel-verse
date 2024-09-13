@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@navikt/ds-css": "^6.1.0",
-    "@navikt/ds-react": "^6.1.0",
+    "@navikt/ds-react": "^7.0.0",
     "@navikt/ds-tailwind": "^6.1.0",
     "@types/node": "22.5.0",
     "@types/react": "18.3.5",
